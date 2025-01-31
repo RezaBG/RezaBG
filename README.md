@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi, I'm **Reza Barzegar Gashti**, a **Junior Full Stack Developer** with expertise in **Python**, **FastAPI**, **Flask**, and **React**. Passionate about building scalable software solutions and continuously learning new technologies to improve my craft.
+Hi, I'm **Reza Barzegar Gashti**, a **Junior Full Stack Developer** with expertise in **Python**, **FastAPI**, **Django**, and **React**. Passionate about building scalable software solutions and continuously learning new technologies to improve my craft.
 
 ---
 
