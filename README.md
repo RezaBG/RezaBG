@@ -49,7 +49,7 @@ I specialize in:
 - Mobile app (React Native) coming soon
 
 📦 **Org Repo:** [github.com/volleymateteam](https://github.com/volleymateteam)  
-📘 **Project README:** See [Volleymate →](https://github.com/volleymateteam/volleymate)
+📘 **Project README:** See [Volleymate →](https://github.com/volleymateteam/readme.md)
 
 ---
 
@@ -57,7 +57,6 @@ I specialize in:
 A CLI and Python utility package to help with fast internal tooling across the Volleymate ecosystem.
 
 📦 **PyPI:** [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools/)  
-📁 **GitHub:** [RezaBG/vm-pkg-tools](https://github.com/RezaBG/vm-pkg-tools)
 
 ---
 
