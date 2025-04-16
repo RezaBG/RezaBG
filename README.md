@@ -38,7 +38,6 @@ I specialize in:
 ---
 
 ## 🏆 Projects & Products
-
 ### 🏐 **Volleymate** (Founder & Lead Developer)
 
 > A cross-platform volleyball scouting & performance platform built with FastAPI, PostgreSQL, React, and AWS.
@@ -62,7 +61,6 @@ A **full-stack to-do management application** with a **FastAPI backend & React f
 ---
 
 ### 🔧 **vm-pkg-tools** – My First PyPI Package
-
 A CLI and Python utility package to help with fast internal tooling across the Volleymate ecosystem.
 
 📦 **PyPI:** [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools/)  
