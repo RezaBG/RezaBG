@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Reza Barzegar Gashti
 
-🎯 **Backend-Focused Full Stack Developer** | 🏐 Founder & Creator of **Volleymate**  
-🧠 Combining my professional background in **volleyball coaching** with software engineering to build powerful, data-driven tools for performance, scouting, and player development.
+**Backend-Focused Full Stack Developer** | Founder & Creator of **Volleymate**  
+Combining my professional background in **volleyball coaching** with software engineering to build powerful, data-driven tools for performance, scouting, and player development.
 
 ---
 
