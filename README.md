@@ -49,7 +49,7 @@ I specialize in:
 - Mobile app (React Native) coming soon
 
 📦 **Org Repo:** [github.com/volleymateteam](https://github.com/volleymateteam)  
-📘 **Project README:** See [Volleymate →](https://github.com/volleymateteam/readme.md)
+📘 **Project README:** See [Volleymate →](https://github.com/volleymateteam/.github)
 
 ---
 
