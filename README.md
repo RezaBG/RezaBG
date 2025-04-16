@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Reza Barzegar Gashti
 
-**Backend-Focused Full Stack Developer** | Founder & Creator of **Volleymate**  
-Combining my professional background in **volleyball coaching** with software engineering to build powerful, data-driven tools for performance, scouting, and player development.
+**Backend-Focused Full Stack Developer** | Volleyball Analyst & Software Builder  
+Bridging the world of professional volleyball with modern software systems.
 
 ---
 
@@ -23,26 +23,33 @@ Combining my professional background in **volleyball coaching** with software en
 
 ---
 
-## 🏐 About Volleymate – My Main Project
+## 🧠 Who I Am
 
-**Volleymate** is a modern, cross-platform platform that helps volleyball teams **analyze matches**, **scout opponents**, and **track player performance** using synchronized video + DataVolley files.
+I'm a developer, systems thinker, and coach — building tools that **solve real-world problems** with code.  
+My expertise lies in building **robust backend systems**, **scalable APIs**, and **multi-role platforms**, especially in the **sports and analytics domain**.
 
-> 🚀 Currently in development with beta partners  
-> 💼 Designed for clubs, federations, and professional coaches  
-> 📊 Focused on performance, insights, and simplicity
-
-🔗 *[Project Link:* *(Coming Soon!)](https://www.volleymate.app/)*  
+I specialize in:
+- 🐍 Python (FastAPI, Pydantic, CLI tools)
+- 🛠️ DevOps (Docker, AWS, CI/CD)
+- 💻 React, ReactNative, TypeScript, Next.js
+- 🏗️ Clean architecture, RBAC, async systems
+- 📦 Building production-grade Python packages
 
 ---
-### 🔧 Technologies Used
 
-| Area          | Stack |
-|---------------|-------|
-| **Backend**   | Python, FastAPI, PostgreSQL, Redis, Pydantic |
-| **Frontend**  | TypeScript, React, Next.js, Tailwind CSS     |
-| **Mobile App**| React Native (cross-platform, iOS + Android) |
-| **Cloud**     | AWS EC2, S3, RDS, CloudFront, GitHub Actions |
-| **Other**     | Docker, GitHub Actions, REST API, JSON Schema |
+## 🏆 Projects & Products
+
+### 🏐 **Volleymate** (Founder & Lead Developer)
+
+> A cross-platform volleyball scouting & performance platform built with FastAPI, PostgreSQL, React, and AWS.
+
+- Built for real volleyball clubs & federations
+- Role-based dashboards for coaches, scouts, players
+- Video + DWV parser integration
+- Mobile app (React Native) coming soon
+
+📦 **Org Repo:** [github.com/volleymateteam](https://github.com/volleymateteam)  
+📘 **Project README:** See [Volleymate →](https://github.com/volleymateteam/volleymate)
 
 ---
 
@@ -54,22 +61,29 @@ A **full-stack to-do management application** with a **FastAPI backend & React f
 
 ---
 
-## 🌱 What I'm Currently Learning
+### 🔧 **vm-pkg-tools** – My First PyPI Package
 
-🚀 **Advancing API Security** (OAuth, JWT, RBAC)  
-☁️ **Scaling applications with AWS & Supabase**  
-⚙️ **Building microservices with FastAPI**  
-🎨 **Refining UI/UX with Next.js & Tailwind CSS**  
-📱 **Mobile development with React Native**  
+A CLI and Python utility package to help with fast internal tooling across the Volleymate ecosystem.
+
+📦 **PyPI:** [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools/)  
+📁 **GitHub:** [RezaBG/vm-pkg-tools](https://github.com/RezaBG/vm-pkg-tools)
+
+---
+
+## 🧩 What Drives Me
+
+- Writing clean, modular, and production-ready code  
+- Creating tools that help coaches and developers alike  
+- Designing secure, scalable backend infrastructure  
+- Pushing the intersection of **sports + software**
 
 ---
 
 ## 📫 How to Reach Me
 
-Let's connect and collaborate! 🚀  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-barzegar-gashti/)  
-📧 **Email:** [rezabarzegargashti@gmail.com](mailto:rezabarzegargashti@gmail.com)
+📧 **rezabarzegargashti@gmail.com**  
+🌐 [Volleymate GitHub Organization](https://github.com/volleymateteam)
 
 ---
 
