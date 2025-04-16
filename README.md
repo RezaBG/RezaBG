@@ -34,15 +34,15 @@ Combining my professional background in **volleyball coaching** with software en
 🔗 *[Project Link:* *(Coming Soon!)](https://www.volleymate.app/)*  
 
 ---
+### 🔧 Technologies Used
 
-### 🔎 **Scout Parser**  
-A **Python package for parsing DataVolley (.dvw) files**, converting match data into structured **JSON format** for analytics.  
-
-- 🚀 **Efficient Data Parsing:** Extracts DataVolley files into clean JSON.  
-- ⚡ **Optimized Performance:** 35% faster than standard parsing methods.  
-- 🔗 **Reusable Library:** Designed for **automation & integration** into larger analytics systems.  
-
-🔗 **[GitHub Repository](https://github.com/volleymateteam/scout_parser_py)**  
+| Area          | Stack |
+|---------------|-------|
+| **Backend**   | Python, FastAPI, PostgreSQL, Redis, Pydantic |
+| **Frontend**  | TypeScript, React, Next.js, Tailwind CSS     |
+| **Mobile App**| React Native (cross-platform, iOS + Android) |
+| **Cloud**     | AWS EC2, S3, RDS, CloudFront, GitHub Actions |
+| **Other**     | Docker, GitHub Actions, REST API, JSON Schema |
 
 ---
 
