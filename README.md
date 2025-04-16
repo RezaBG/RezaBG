@@ -38,6 +38,7 @@ I specialize in:
 ---
 
 ## 🏆 Projects & Products
+
 ### 🏐 **Volleymate** (Founder & Lead Developer)
 
 > A cross-platform volleyball scouting & performance platform built with FastAPI, PostgreSQL, React, and AWS.
@@ -49,14 +50,6 @@ I specialize in:
 
 📦 **Org Repo:** [github.com/volleymateteam](https://github.com/volleymateteam)  
 📘 **Project README:** See [Volleymate →](https://github.com/volleymateteam/volleymate)
-
----
-
-### ✅ **TUDU - Task Management System**
-A **full-stack to-do management application** with a **FastAPI backend & React frontend**.  
-
-- 🔗 **[Backend Repository](https://github.com/RezaBG/TUDU)**  
-- 🔗 **[Frontend Repository](https://github.com/RezaBG/TUDU_FE)**  
 
 ---
 
