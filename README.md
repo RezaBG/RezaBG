@@ -23,17 +23,15 @@ Combining my professional background in **volleyball coaching** with software en
 
 ---
 
-## 📚 My Projects
+## 🏐 About Volleymate – My Main Project
 
-### 🏐 **Volleymate** (🚀 Launching Soon!)
-A **cross-platform analytics application** for volleyball teams to track real-time match performance, tactical analysis, and team insights. **Developed using FastAPI, React, PostgreSQL, and AWS (EC2, S3, RDS).**
+**Volleymate** is a modern, cross-platform platform that helps volleyball teams **analyze matches**, **scout opponents**, and **track player performance** using synchronized video + DataVolley files.
 
-- 📊 Real-time match insights & analytics  
-- 🚀 AI-driven performance tracking  
-- ☁️ Cloud deployment with **AWS & CI/CD pipelines**  
-- 🎨 Modern UI built with **Next.js & React**  
+> 🚀 Currently in development with beta partners  
+> 💼 Designed for clubs, federations, and professional coaches  
+> 📊 Focused on performance, insights, and simplicity
 
-🔗 *Project Link:* *(Coming Soon!)*  
+🔗 *[Project Link:* *(Coming Soon!)](https://www.volleymate.app/)*  
 
 ---
 
