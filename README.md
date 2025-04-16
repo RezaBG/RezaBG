@@ -50,7 +50,7 @@ I specialize in:
 - 🛠️ Designed & developed entirely from scratch — from database to UI to deployment
 
 📦 **Org Repo:** [github.com/volleymateteam](https://github.com/volleymateteam)  
-📘 **Project README:** See [Volleymate →](https://github.com/volleymateteam/.github)
+📘 **Website:** See [Volleymate →](https://www.volleymate.app)
 
 ---
 
@@ -59,7 +59,6 @@ I specialize in:
 A lightweight Python + CLI utility package built for internal tooling across the Volleymate ecosystem.
 
 📦 **PyPI:** [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools/)  
-📁 **GitHub:** [RezaBG/vm-pkg-tools](https://github.com/RezaBG/vm-pkg-tools)
 
 ---
 
