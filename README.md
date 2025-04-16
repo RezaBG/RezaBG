@@ -50,7 +50,7 @@ I specialize in:
 - 🛠️ Designed & developed entirely from scratch — from database to UI to deployment
 
 📦 **Org Repo:** [github.com/volleymateteam](https://github.com/volleymateteam)  
-📘 **Website:** See [Volleymate →](https://www.volleymate.app)
+📘 **Website:** [Volleymate →](https://www.volleymate.app)
 
 ---
 
