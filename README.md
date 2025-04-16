@@ -19,19 +19,19 @@ Bridging the world of professional volleyball with modern software systems.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0052CC?style=for-the-badge&logo=gitHubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 ## 🧠 Who I Am
 
 I'm a developer, systems thinker, and coach — building tools that **solve real-world problems** with code.  
-My expertise lies in building **robust backend systems**, **scalable APIs**, and **multi-role platforms**, especially in the **sports and analytics domain**.
+My expertise lies in building **robust backend systems**, designing **scalable APIs**, and architecting **multi-role platforms** — especially in the **sports tech and performance analytics** space.
 
 I specialize in:
 - 🐍 Python (FastAPI, Pydantic, CLI tools)
 - 🛠️ DevOps (Docker, AWS, CI/CD)
-- 💻 React, ReactNative, TypeScript, Next.js
+- 💻 React, React Native, TypeScript, Next.js
 - 🏗️ Clean architecture, RBAC, async systems
 - 📦 Building production-grade Python packages
 
@@ -47,6 +47,7 @@ I specialize in:
 - Role-based dashboards for coaches, scouts, players
 - Video + DWV parser integration
 - Mobile app (React Native) coming soon
+- 🛠️ Designed & developed entirely from scratch — from database to UI to deployment
 
 📦 **Org Repo:** [github.com/volleymateteam](https://github.com/volleymateteam)  
 📘 **Project README:** See [Volleymate →](https://github.com/volleymateteam/.github)
@@ -54,9 +55,11 @@ I specialize in:
 ---
 
 ### 🔧 **vm-pkg-tools** – My First PyPI Package
-A CLI and Python utility package to help with fast internal tooling across the Volleymate ecosystem.
+
+A lightweight Python + CLI utility package built for internal tooling across the Volleymate ecosystem.
 
 📦 **PyPI:** [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools/)  
+📁 **GitHub:** [RezaBG/vm-pkg-tools](https://github.com/RezaBG/vm-pkg-tools)
 
 ---
 
