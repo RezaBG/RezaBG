@@ -1,6 +1,7 @@
-# Welcome to My GitHub Profile! 🚀
+# 👋 Hi, I’m Reza Barzegar Gashti
 
-💡 Hi, I’m Reza Barzegar Gashti, a Full Stack Developer specializing in **backend development, API design, and scalable cloud-based applications**. I have hands-on experience with **Python, FastAPI, PostgreSQL, AWS, and React**, building **high-performance systems**. Passionate about **clean code, security, and solving real-world problems** through **efficient and scalable software solutions**.
+🎯 **Backend-Focused Full Stack Developer** | 🏐 Founder & Creator of **Volleymate**  
+🧠 Combining my professional background in **volleyball coaching** with software engineering to build powerful, data-driven tools for performance, scouting, and player development.
 
 ---
 
