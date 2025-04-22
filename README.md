@@ -31,6 +31,7 @@ My expertise lies in building **robust backend systems**, designing **scalable A
 
 I specialize in:
 - 🐍 Python (FastAPI, Pydantic, CLI tools)
+- Go (growing focus on performance & concurrency)
 - 🛠️ DevOps (Docker, AWS, CI/CD)
 - 💻 React, React Native, TypeScript, Next.js
 - 🏗️ Clean architecture, RBAC, async systems
