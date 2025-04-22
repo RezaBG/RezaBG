@@ -56,7 +56,7 @@ I specialize in:
 
 ---
 
-### 🔧 **vm-pkg-tools** – My First PyPI Package
+### 🔧 **Lightweight Parser for Scout Data (PyPI)**
 
 A lightweight Python + CLI utility package built for internal tooling across the Volleymate ecosystem.
 
