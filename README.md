@@ -2,6 +2,7 @@
 
 **Backend-Focused Full Stack Developer** | Volleyball Analyst & Software Builder  
 Python (FastAPI), Golang (Gin), TypeScript (React) | PostgreSQL, AWS
+
 Bridging the world of professional volleyball with modern software systems.
 
 ---
