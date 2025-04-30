@@ -26,50 +26,52 @@ Bridging the world of professional volleyball with modern software systems.
 
 ## 🧠 Who I Am
 
-I'm a developer, systems thinker, and coach — building tools that **solve real-world problems** with code.  
-My expertise lies in building **robust backend systems**, designing **scalable APIs**, and architecting **multi-role platforms** — especially in the **sports tech and performance analytics** space.
+I'm a backend-focused developer with 3+ years of experience building real-world systems using Python, FastAPI, PostgreSQL, and AWS.  
+I specialize in scalable API design, asynchronous data processing, and backend architecture.  
+Recently, I’ve been extending my work into Go (Gin) for performance-critical services.
 
 I specialize in:
 - 🐍 Python (FastAPI, Pydantic, CLI tools)
-- Go (growing focus on performance & concurrency)
-- 🛠️ DevOps (Docker, AWS, CI/CD)
+- 🦫 Go (Gin framework, backend performance and concurrency)
+- 🛠️ DevOps (Docker, AWS, GitHub Actions, CI/CD)
 - 💻 React, React Native, TypeScript, Next.js
-- 🏗️ Clean architecture, RBAC, async systems
+- 🧱 Clean architecture, role-based access control (RBAC), asynchronous systems
 - 📦 Building production-grade Python packages
 
 ---
 
 ## 🏆 Projects & Products
 
-### 🏐 **Volleymate** (Founder & Lead Developer)
+### 🏐 **Volleymate** (Founder & Full Stack Developer)
 
-> A cross-platform volleyball scouting & performance platform built with FastAPI, PostgreSQL, React, and AWS.
+> A cross-platform volleyball scouting & performance platform built with FastAPI, PostgreSQL, Go, React, and AWS.
 
-- Built for real volleyball clubs & federations
+- Built for real volleyball clubs & analysts
 - Role-based dashboards for coaches, scouts, players
-- Video + DWV parser integration
+- Real-time video + `.dvw` parser integration
 - Mobile app (React Native) coming soon
-- 🛠️ Designed & developed entirely from scratch — from database to UI to deployment
+- Backend core being expanded to Go (Gin) for scalability
+- Designed & developed entirely from scratch — from database to UI to CI/CD
 
-📦 **Org Repo:** [github.com/volleymateteam](https://github.com/volleymateteam)  
-📘 **Website:** [volleymate.app](https://www.volleymate.app)
+🔗 **Organization Repo:** [github.com/volleymateteam](https://github.com/volleymateteam)  
+🌐 **Website:** [volleymate.app](https://www.volleymate.app)
 
 ---
 
-### 🔧 **Lightweight Parser for Scout Data (PyPI)**
+### 🧪 **Scout Parser – Match Data Extraction Tool**
 
-A lightweight Python + CLI utility package built for internal tooling across the Volleymate ecosystem.
+> A production-ready Python + CLI utility for converting `.dvw` scout files into structured JSON for analytics.
 
-📦 **PyPI:** [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools/)  
+📦 **PyPI:** [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools/)
 
 ---
 
 ## 🧩 What Drives Me
 
-- Writing clean, modular, and production-ready code  
-- Creating tools that help coaches and developers alike  
-- Designing secure, scalable backend infrastructure  
-- Pushing the intersection of **sports + software**
+- Writing clean, modular, and production-grade backend code  
+- Creating tools that help both developers and coaches  
+- Designing secure, scalable infrastructure and automation  
+- Exploring the intersection of sports and software innovation
 
 ---
 
@@ -81,4 +83,4 @@ A lightweight Python + CLI utility package built for internal tooling across the
 
 ---
 
-💡 *Thanks for stopping by! Looking forward to building something great together!*
+_Thanks for stopping by — I’m open to freelance collaborations, internships, and full-time opportunities._
