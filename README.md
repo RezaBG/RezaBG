@@ -24,25 +24,25 @@ Bridging the world of professional volleyball with modern software systems.
 
 ---
 
-## 🧠 Who I Am
+## Who I Am
 
 I'm a backend-focused developer with 3+ years of experience building real-world systems using Python, FastAPI, PostgreSQL, and AWS.  
 I specialize in scalable API design, asynchronous data processing, and backend architecture.  
 Recently, I’ve been extending my work into Go (Gin) for performance-critical services.
 
 I specialize in:
-- 🐍 Python (FastAPI, Pydantic, CLI tools)
-- 🦫 Go (Gin framework, backend performance and concurrency)
-- 🛠️ DevOps (Docker, AWS, GitHub Actions, CI/CD)
-- 💻 React, React Native, TypeScript, Next.js
-- 🧱 Clean architecture, role-based access control (RBAC), asynchronous systems
-- 📦 Building production-grade Python packages
+- Python (FastAPI, Pydantic, CLI tools)
+- Go (Gin framework, backend performance and concurrency)
+- DevOps (Docker, AWS, GitHub Actions, CI/CD)
+- React, React Native, TypeScript, Next.js
+- Clean architecture, role-based access control (RBAC), asynchronous systems
+- Building production-grade Python packages
 
 ---
 
-## 🏆 Projects & Products
+## Projects & Products
 
-### 🏐 **Volleymate** (Founder & Full Stack Developer)
+### **Volleymate** (Founder & Full Stack Developer)
 
 > A cross-platform volleyball scouting & performance platform built with FastAPI, PostgreSQL, Go, React, and AWS.
 
@@ -58,7 +58,7 @@ I specialize in:
 
 ---
 
-### 🧪 **Scout Parser – Match Data Extraction Tool**
+### **Scout Parser – Match Data Extraction Tool**
 
 > A production-ready Python + CLI utility for converting `.dvw` scout files into structured JSON for analytics.
 
@@ -66,7 +66,7 @@ I specialize in:
 
 ---
 
-## 🧩 What Drives Me
+## What Drives Me
 
 - Writing clean, modular, and production-grade backend code  
 - Creating tools that help both developers and coaches  
@@ -75,7 +75,7 @@ I specialize in:
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-barzegar-gashti/)  
 📧 **rezabarzegargashti@gmail.com**  
