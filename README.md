@@ -37,10 +37,10 @@ What I bring:
 
 > Cross-platform app for scouting and performance tracking (Go, Python, React, AWS)
 
-- Admin, coach, scout, and player dashboards
-- Real-time video + .dvw parser sync engine
-- Scalable backend with RBAC and JSONB permission overrides
-- Multi-repo: Next.js, React Native, FastAPI, Go (Gin), AWS
+- Role-based dashboards for admin, coach, scout, and player views
+- Real-time data sync with video timelines and analytics modules
+- Secure file handling with CloudFront + S3; fully containerized backend
+- Modular architecture deployed across separate repos (Go, FastAPI, Next.js, React Native)
 
 🔗 [Org Repo](https://github.com/volleymateteam)
 
