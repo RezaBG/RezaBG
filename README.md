@@ -48,10 +48,9 @@ What I bring:
 
 ### ⚙️ [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools) – CLI for Scout File Parsing
 
-> PyPI package to convert `.dvw` match files into clean, structured JSON
+> PyPI package - vm-pkg-tools – CLI Tool for Structured Data Conversion
 
-- Built with Pydantic + Click  
-- Used in production by analysts and dashboards
+- Production-ready Python CLI package that converts raw match data into clean, structured JSON for analytics pipelines.
 
 ---
 
