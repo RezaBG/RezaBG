@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Reza Barzegar Gashti
+# Hi, I’m Reza Barzegar Gashti
 
 **Backend Engineer | Go, Python, AWS | SaaS, APIs, Cloud Systems**  
 Bridging the world of professional volleyball with scalable backend systems.
 
 ---
 
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,7 +19,7 @@ Bridging the world of professional volleyball with scalable backend systems.
 
 ---
 
-## 🧠 About Me
+## About Me
 
 Backend-focused engineer with 3+ years of experience building SaaS platforms, microservices, and cloud-native APIs.  
 Specialized in **Go (Gin)**, **FastAPI**, **PostgreSQL**, and **AWS (S3, EC2, CloudFront)**.  
@@ -31,9 +31,9 @@ What I bring:
 
 ---
 
-## 🏗️ Featured Projects
+## Featured Projects
 
-### 🏐 [Volleymate.app](https://www.volleymate.app) – B2B SaaS for Sports Analytics
+### [Volleymate.app](https://www.volleymate.app) – B2B SaaS for Sports Analytics
 
 > Cross-platform app for scouting and performance tracking (Go, Python, React, AWS)
 
@@ -46,7 +46,7 @@ What I bring:
 
 ---
 
-### ⚙️ [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools) – CLI for Scout File Parsing
+### [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools) – CLI for Scout File Parsing
 
 > PyPI package - vm-pkg-tools – CLI Tool for Structured Data Conversion
 
@@ -54,7 +54,7 @@ What I bring:
 
 ---
 
-## 🎯 What I Value
+## What I Value
 
 - Clean, scalable code with clear ownership  
 - Building tools that drive real-world decisions  
@@ -62,7 +62,7 @@ What I bring:
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reza-barzegar-gashti/)  
 📧 **rezabarzegargashti@gmail.com**
