@@ -21,14 +21,7 @@ Bridging the world of professional volleyball with scalable backend systems.
 
 ## About Me
 
-Backend-focused engineer with 3+ years of experience building SaaS platforms, microservices, and cloud-native APIs.  
-Specialized in **Go (Gin)**, **FastAPI**, **PostgreSQL**, and **AWS (S3, EC2, CloudFront)**.  
-
-What I bring:
-- Scalable backend design & CI/CD pipelines  
-- Secure RBAC systems and async architecture  
-- Full ownership from code to deployment  
-
+Backend-focused developer with 4+ years of experience building SaaS platforms and API-driven cloud applications . Specialized in Go, FastAPI, PostgreSQL , and AWS. Proven track record in shipping scalable backend systems, real-time video-sync integrations, and secure RBAC architecture . Passionate about clean architecture and measurable impact.
 ---
 
 ## Featured Projects
