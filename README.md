@@ -21,7 +21,7 @@ Bridging the world of professional volleyball with scalable backend systems.
 
 ## About Me
 
-Backend-focused developer with 4+ years of experience building SaaS platforms and API-driven cloud applications . Specialized in Go, FastAPI, PostgreSQL , and AWS. Proven track record in shipping scalable backend systems, real-time video-sync integrations, and secure RBAC architecture . Passionate about clean architecture and measurable impact.
+> Backend-focused developer with 3+ years of experience building SaaS platforms and API-driven cloud applications . Specialized in Go, FastAPI, PostgreSQL , and AWS. Proven track record in shipping scalable backend systems, real-time video-sync integrations, and secure RBAC architecture . Passionate about clean architecture and measurable impact.
 ---
 
 ## Featured Projects
