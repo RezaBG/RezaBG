@@ -1,7 +1,7 @@
 # Hi, I’m Reza Barzegar Gashti
 
 **Backend Engineer | Go, Python, AWS | SaaS, APIs, Cloud Systems**  
-Bridging the world of professional volleyball with scalable backend systems.
+Building scalable backend systems — from sports analytics to cloud-native apps.
 
 ---
 
@@ -21,7 +21,8 @@ Bridging the world of professional volleyball with scalable backend systems.
 
 ## About Me
 
-> Backend-focused developer with 3+ years of experience building SaaS platforms and API-driven cloud applications. Specialized in Go, FastAPI, PostgreSQL, and AWS. Proven track record in shipping scalable backend systems, real-time video-sync integrations, and secure RBAC architecture. Passionate about clean architecture and measurable impact.
+> Backend-focused engineer with 3+ years of experience in building SaaS platforms, cloud-native APIs, and data-driven backend systems. Skilled in Go, FastAPI, PostgreSQL, and AWS. Delivered real-time data sync integrations, modular microservices, and secure role-based access systems. Passionate about clean architecture and measurable outcomes.
+
 ---
 
 ## Featured Projects
@@ -31,9 +32,12 @@ Bridging the world of professional volleyball with scalable backend systems.
 > Cross-platform app for scouting and performance tracking (Go, Python, React, AWS)
 
 - Role-based dashboards for admin, coach, scout, and player views
+- Built S3/CloudFront media pipeline with secure presigned access
 - Real-time data sync with video timelines and analytics modules
 - Secure file handling with CloudFront + S3; fully containerized backend
 - Modular architecture deployed across separate repos (Go, FastAPI, Next.js, React Native)
+
+
 
 🔗 [Org Repo](https://github.com/volleymateteam)
 
@@ -62,4 +66,5 @@ Bridging the world of professional volleyball with scalable backend systems.
 
 ---
 
-_Thanks for visiting — I’m open to backend roles, internships, and freelance projects._
+_Thanks for stopping by — I'm actively open to backend roles and cloud-focused opportunities (Germany or remote)._
+
