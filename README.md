@@ -1,6 +1,6 @@
 # Hi, I’m Reza Barzegar Gashti
 
-**Backend & Cloud Engineer | Go, Python, AWS | DevOps & Microservices‬**  
+**Backend Engineer | Go, Python, AWS | DevOps & Microservices‬**  
 Building scalable backend systems - from sports analytics to cloud-native apps.
 
 ---
