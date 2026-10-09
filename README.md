@@ -30,7 +30,7 @@ My work connects application development with infrastructure: building services,
 
 ## Selected Work
 
-### [Robotics & Edge Systems](https://neura-robotics.com)
+### [Neura Robotics](https://neura-robotics.com)
 
 At Neura Robotics, my work includes:
 
