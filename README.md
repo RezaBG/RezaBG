@@ -1,70 +1,85 @@
 # Hi, I’m Reza Barzegar Gashti
 
-**Backend Engineer | Go, Python, Cloud | DevOps & Microservices‬**  
-Building scalable backend systems - from sports analytics to cloud-native apps.
+**Cloud Backend Engineer | Go, Python, Kubernetes | Distributed & Edge Systems**
 
----
+I build backend services and the infrastructure that runs them—from sports analytics platforms to robotics and edge systems.
 
-## Tech Stack & Tools
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions)
-
----
+Based in Germany.
 
 ## About Me
 
-> Backend-focused engineer with 3+ years of experience in building SaaS platforms, cloud-native APIs, and data-driven backend systems. Skilled in Go, FastAPI, PostgreSQL, and AWS. Delivered real-time data sync integrations, modular microservices, and secure role-based access systems. Passionate about clean architecture and measurable outcomes.
+I’m a backend engineer working with Go, Python, distributed systems, and cloud-native infrastructure.
 
----
+At **Neura Robotics**, I work on backend orchestration for robotic systems, including a Go implementation of the platform’s Node Engine, gRPC communication, and deployments across x86 and ARM64 environments.
 
-## Featured Projects
+I also build **Volleymate**, a volleyball scouting and analytics platform. I own its product development, backend architecture, deployment workflows, and operations.
 
-### [Volleymate.app](https://www.volleymate.app) – B2B SaaS for Sports Analytics
+My work connects application development with infrastructure: building services, shipping them reliably, and investigating problems when something breaks.
 
-> Cross-platform app for scouting and performance tracking (Go, Python, React, AWS)
+## Core Technologies
 
-- Role-based dashboards for admin, coach, scout, and player views
-- Built S3/CloudFront media pipeline with secure presigned access
-- Real-time data sync with video timelines and analytics modules
-- Secure file handling with CloudFront + S3; fully containerized backend
-- Modular architecture deployed across separate repos (Go, FastAPI, Next.js, React Native)
+| Area | Technologies |
+|---|---|
+| Backend | Go, Python, REST APIs, gRPC, Protocol Buffers |
+| Data | PostgreSQL, Redis, SQL |
+| Infrastructure | Kubernetes, k3s, Docker, Terraform, Ansible |
+| Delivery | Argo CD, GitHub Actions, GitLab CI, GitOps |
+| Networking & Operations | Cilium, OpenObserve, Better Stack |
+| Frontend & Applications | TypeScript, React, Next.js, Tauri |
+| Cloud & Edge | Hetzner, AWS, Linux, x86, ARM64 |
 
+## Selected Work
 
+### Robotics & Edge Systems
 
-🔗 [Org Repo](https://github.com/volleymateteam)
+At Neura Robotics, my work includes:
 
----
+- Building a Go Node Engine alongside the existing Python implementation.
+- Developing bidirectional gRPC communication and service orchestration.
+- Building reusable memory and lifecycle profiling tools to help node owners identify regressions and verify fixes.
+- Working with Kubernetes and GitOps delivery across x86 and ARM64 edge hardware.
 
-### [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools) – CLI for Scout File Parsing
+### [Volleymate](https://www.volleymate.app)
 
-> PyPI package - vm-pkg-tools – CLI Tool for Structured Data Conversion
+**Volleyball scouting, video analysis, and performance analytics**
 
-- Production-ready Python CLI package that converts raw match data into clean, structured JSON for analytics pipelines.
+I build and maintain the platform end to end, including:
 
----
+- Go backend services, Python scout-data processing, and PostgreSQL.
+- Role-based access for clubs, teams, coaches, scouts, and players.
+- Cross-platform applications for macOS, Windows, and iOS.
+- Video workflows connected to scouting events and match analytics.
+- Background jobs for data processing and analytics.
 
-## What I Value
+#### Platform & Delivery
 
-- Clean, scalable code with clear ownership  
-- Building tools that drive real-world decisions  
-- Connecting performance, automation, and analytics
+- Migrated the platform from Docker Compose to Kubernetes using **k3s on Hetzner**.
+- Automated infrastructure provisioning with **Terraform and Ansible**.
+- Configured **Cilium** networking and a dedicated PostgreSQL VM.
+- Built **Argo CD GitOps delivery** with reusable GitHub Actions workflows.
+- Introduced versioned container images, pull-request-based release promotion, and automated database migrations.
+- Implemented encrypted PostgreSQL backups with WAL archiving and verified restores.
+- Added centralized logging and external health monitoring.
 
----
+[Volleymate GitHub organization](https://github.com/volleymateteam)
+
+### [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools/)
+
+**Python tools for volleyball scouting data**
+
+A Python package and CLI for converting scout files into structured data for analytics workflows.
+
+## How I Work
+
+- Start with a clear problem and a small working implementation.
+- Test the behavior, then improve error handling and reliability.
+- Keep service boundaries and data ownership explicit.
+- Automate repeatable delivery and operational tasks.
+- Investigate failures using logs, tests, and reproducible evidence.
 
 ## Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reza-barzegar-gashti/)  
-📧 **rezabarzegargashti@gmail.com**
+- [LinkedIn](https://www.linkedin.com/in/reza-barzegar-gashti/)
+- Email: **rezabarzegargashti@gmail.com**
 
----
-
-_Thanks for stopping by — I'm actively open to backend roles and cloud-focused opportunities (Germany or remote)._
-
+Interested in backend, cloud-platform, and distributed-systems opportunities in Germany or remotely.
