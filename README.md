@@ -30,7 +30,7 @@ My work connects application development with infrastructure: building services,
 
 ## Selected Work
 
-### Robotics & Edge Systems
+### [Robotics & Edge Systems](https://neura-robotics.com)
 
 At Neura Robotics, my work includes:
 
@@ -62,12 +62,6 @@ I build and maintain the platform end to end, including:
 - Added centralized logging and external health monitoring.
 
 [Volleymate GitHub organization](https://github.com/volleymateteam)
-
-### [vm-pkg-tools](https://pypi.org/project/vm-pkg-tools/)
-
-**Python tools for volleyball scouting data**
-
-A Python package and CLI for converting scout files into structured data for analytics workflows.
 
 ## How I Work
 
